@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/1061628712111579277/1314588156460535839/ezgif.com-optimize_1.gif?ex=67545120&is=6752ffa0&hm=29dd47b037e5a7cd298c2e2c318fd13904bd6712f6141e274063f8c5d553a209&)
+![Header](https://github.com/DawnShaker/dawnshaker/blob/main/assets/one_thrash.gif)
 
 ## I'm a beginner QA Manual engineer
 
