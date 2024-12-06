@@ -1,4 +1,4 @@
-![Header](https://steamuserimages-a.akamaihd.net/ugc/775118566347394864/FD509E5D66FFE75149B02C1D16B23AB507B82591/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Header](https://cdn.discordapp.com/attachments/1061628712111579277/1314588156460535839/ezgif.com-optimize_1.gif?ex=67545120&is=6752ffa0&hm=29dd47b037e5a7cd298c2e2c318fd13904bd6712f6141e274063f8c5d553a209&)
 
 ## I'm a beginner QA Manual engineer
 
@@ -20,19 +20,8 @@
 
 [![Telegram](https://img.shields.io/badge/telegram-393939?style=for-the-badge&logo=telegram)](https://t.me/dawnshaker)
 [![X](https://img.shields.io/badge/X-393939?style=for-the-badge&logo=X)](https://x.com/dawn_shaker)
-<a href="#" onclick="copyToClipboard(); return false;">
-[![Steam](https://img.shields.io/badge/steam-393939?style=for-the-badge&logo=steam)]()
-</a>
+[![Steam](https://img.shields.io/badge/steam-393939?style=for-the-badge&logo=steam)](245922436)
+[![Youtube](https://img.shields.io/badge/youtube-393939?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@ДанилоКукіль)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-393939?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/danylo-kukil/)
 
-<span id="steam-code" style="display:none;">245922436</span>
-
-<script>
-  function copyToClipboard() {
-    const code = document.getElementById('steam-code').innerText;
-    navigator.clipboard.writeText(code).then(() => {
-      alert('Steam Invite Code copied to clipboard!');
-    }).catch(err => {
-      console.error('Error copying text: ', err);
-    });
-  }
-</script>
+![Daynlo Kukil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnshaker&show_icons=true&theme=dark)
