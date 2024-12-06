@@ -11,7 +11,28 @@
 ![Devtools Badge](https://img.shields.io/badge/Devtools-393939?style=for-the-badge&logo=googlechrome)
 ![Pict Badge](https://img.shields.io/badge/PICT-393939?style=for-the-badge&logo=pict)
 ![Jira Badge](https://img.shields.io/badge/jira-393939?style=for-the-badge&logo=jira&logoColor=blue)
-![Bash Badge](https://img.shields.io/badge/bash-393939?style=for-the-badge&logo=gnubash&logoColor=grey)
+![Bash Badge](https://img.shields.io/badge/bash-393939?style=for-the-badge&logo=gnubash&logoColor=lightgrey)
 ![HTML5 Badge](https://img.shields.io/badge/HTML-393939?style=for-the-badge&logo=html5&logoColor=blue)
 ![CSS3 Badge](https://img.shields.io/badge/CSS-393939?style=for-the-badge&logo=css3&logoColor=orange)
-![JSON Badge](https://img.shields.io/badge/json-393939?style=for-the-badge&logo=json&logoColor=grey)
+![JSON Badge](https://img.shields.io/badge/json-393939?style=for-the-badge&logo=json&logoColor=black)
+
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/telegram-393939?style=for-the-badge&logo=telegram)](https://t.me/dawnshaker)
+[![X](https://img.shields.io/badge/X-393939?style=for-the-badge&logo=X)](https://x.com/dawn_shaker)
+<a href="#" onclick="copyToClipboard(); return false;">
+[![Steam](https://img.shields.io/badge/steam-393939?style=for-the-badge&logo=steam)]()
+</a>
+
+<span id="steam-code" style="display:none;">245922436</span>
+
+<script>
+  function copyToClipboard() {
+    const code = document.getElementById('steam-code').innerText;
+    navigator.clipboard.writeText(code).then(() => {
+      alert('Steam Invite Code copied to clipboard!');
+    }).catch(err => {
+      console.error('Error copying text: ', err);
+    });
+  }
+</script>
